@@ -2,6 +2,12 @@ import java.util.LinkedList;
 import java.util.Random;
 import java.util.Scanner;
 
+/*
+ * refer:
+ * https://www.youtube.com/watch?v=gx_YUORX5vk
+ * https://www.youtube.com/watch?v=wm1O8EE0X8k
+ */
+
 public class Processor {
 	//Wait and Notify Example 1
 	/*
